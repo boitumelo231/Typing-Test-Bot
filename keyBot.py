@@ -5,7 +5,7 @@ import time
 
 options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(chrome_options=options)
-driver.get("https://10fastfingers.com/typing-test/english")
+driver.get(https://somewheretypingtest.com/test)
 def on_release(key):
 	if key == Key.f2:
 		start()
