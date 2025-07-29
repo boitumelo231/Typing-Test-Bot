@@ -5,6 +5,6 @@ Automatically completes typing test on https://somewheretypingtest.com/test
 
 **How to use**<br>Run<br>Wait for https://somewheretypingtest.com/test to finish loading<br>`f2`: begins botting
 
-**Limitations**<br>10FastFingers only produces ~350 words
+**Limitations**<br>somewheretypingtest only produces ~350 words
 
 **Features**<br>Change typing speed by increasing or decreasing delay in line 27
